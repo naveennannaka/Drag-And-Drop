@@ -60,7 +60,7 @@
               Host: "smtp.elasticemail.com",
               Username: "naveennannaka99@gmail.com",
               Password: "BFC34799F2955E6C850065BB0A9D2D305098",
-              To: "info@shopperbird.com",
+              To: "naveennannaka99@gmail.com",
               From: "abhilashyerra1020@gmail.com",
               Subject: "Test",
               Body: "Test",
